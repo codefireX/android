@@ -335,9 +335,9 @@
   <project path="prebuilts/gcc/linux-x86/x86/i686-android-linux-4.4.3" name="platform/prebuilts/gcc/linux-x86/x86/i686-android-linux-4.4.3" remote="aosp" revision="jb-dev" />
   <project path="prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6" name="platform/prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6" remote="aosp" revision="jb-dev" />
   <project path="prebuilts/misc" name="CyanogenMod/android_prebuilts_misc" />
-  <project path="prebuilts/ndk" name="platform/prebuilts/ndk" remote="aosp" revision="jb-dev" />
-  <project path="prebuilts/qemu-kernel" name="platform/prebuilts/qemu-kernel" remote="aosp" revision="jb-dev" />
-  <project path="prebuilts/sdk" name="platform/prebuilts/sdk" remote="aosp" revision="jb-dev" />
+  <project path="prebuilts/ndk" name="platform/prebuilts/ndk" remote="aosp" revision="jb-mr0-release" />
+  <project path="prebuilts/qemu-kernel" name="platform/prebuilts/qemu-kernel" remote="aosp" revision="jb-mr0-release" />
+  <project path="prebuilts/sdk" name="platform/prebuilts/sdk" remote="aosp" revision="jb-mr0-release" />
   <project path="prebuilts/tools" name="CyanogenMod/android_prebuilts_tools" />
   <project path="sdk" name="CyanogenMod/android_sdk" />
   <project path="system/bluetooth" name="CyanogenMod/android_system_bluetooth" />
